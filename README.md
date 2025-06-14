@@ -1,4 +1,4 @@
-A simple adventure game with riddles, NPCs and rooms using Python and random module. It helped me in learning how to chain functions, use classes to create NPCs and functions to create rooms.
+A simple text based adventure game with riddles, NPCs and rooms using Python and random module. It helped me in learning how to chain functions, use classes to create NPCs and functions to create rooms.
 
 Features:
 1. 4 rooms
