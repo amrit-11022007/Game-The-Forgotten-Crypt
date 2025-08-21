@@ -115,7 +115,7 @@ def hall_of_wispers():
             break
         else:
             player.health -= 20
-            print('Poison Gas!!! you lost 20 Player.health')
+            print('Poison Gas!!! you lost 20 health')
             input()
             print(f'you have {player.health} left')
             input()
